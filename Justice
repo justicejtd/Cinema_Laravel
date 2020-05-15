@@ -1,0 +1,4 @@
+M	cinema/app/Http/Controllers/TicketsListController.php
+M	cinema/app/Policies/TicketPolicy.php
+M	cinema/app/Providers/AuthServiceProvider.php
+Your branch is up to date with 'origin/denitsa'.

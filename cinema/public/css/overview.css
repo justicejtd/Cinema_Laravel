@@ -1,0 +1,73 @@
+.btn-primary {
+    background :#3CB371 !important;
+    border:none !important;    /* without important keyword the styling is not changing */
+    margin-top:12pt !important;
+
+}
+ .btn-primary:hover
+ {
+    background : #008000 !important;
+
+        /* .btn-primary:active, .btn-primary:visited */
+ }
+
+.main{
+    margin-left:10pt !important;
+    margin-right:10pt !important;
+    margin-top:15pt !important;
+}
+.secondary{
+    margin-left:10pt !important;
+    margin-right:10pt !important;
+    margin-top:15pt !important;
+}
+.scroll {
+    max-height: 250px;
+    overflow-x: auto;
+}
+.card {
+
+    max-width: 250px !important;
+    width: auto !important;
+    height: 600px !important;
+    margin-bottom: 5pt !important;
+    margin-left: 5pt !important;
+
+}
+.card-img {
+    height: auto !important;
+    min-height: 400px;
+    max-width: 100%  !important;
+}
+.card2 {
+
+    max-width: 400px !important;
+    width: auto !important;
+    height: auto !important;
+    margin-bottom: 5pt !important;
+    margin-left: 5pt !important;
+
+}
+.img {
+    max-width: 100%  !important;
+    height: auto  !important;
+    max-height: 250px  !important;
+}
+.pic{
+    background-color:grey;
+    width: 100%;
+    float: right;
+}
+.list{
+    width:50pt !important;
+}
+.formPurchase{
+    margin-left:5pt !important;
+    margin-top:5pt !important;
+    height: 18rem !important;
+    width: 50rem !important;
+}
+.formPurchaseSec{
+    height: 18rem !important;
+    width: 50rem !important;
+}
