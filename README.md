@@ -1,5 +1,7 @@
 # Cinema_Laravel_Justice_Denitsa
 
+   This application about a cinema where the user should be to see the available movies, purchase a ticket, create a profile, export      tickets and the admin account should be able to upload/delete/update movies
+   
    There are three types of user, visitor, admin and user.
    To access the admin account use for email admin@hotmail.com and for password "secret".
    Admin is able to export all the users to exel file and upload/delete movies with watermark.
