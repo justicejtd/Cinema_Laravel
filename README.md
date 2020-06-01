@@ -1,4 +1,4 @@
-# Cinema_Laravel_Justice_Denitsa
+# Cinema_Laravel
 
    This application about a cinema where the user should be to see the available movies, purchase a ticket, create a profile, export      tickets and the admin account should be able to upload/delete/update movies
    
